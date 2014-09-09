@@ -1,7 +1,7 @@
 === Advanced Custom Fields: Row Field ===
 Contributors: rabmalin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramrojob1%40gmail%2ecom&lc=US&item_name=Nilambar%20Sharma&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: category, listing, widget, list, post, posts, sidebar, taxonomy, custom taxonomy, parent category
+Tags: acf, advanced-custom-fields, addon, add-on, row, form-display
 Requires at least: 3.5.1
 Tested up to: 3.9.2
 Stable tag: 1.0.0
@@ -15,7 +15,7 @@ Add-on to Advanced Custom fields for showing multiple ACF fields in a single row
 <h3>Advanced Custom Fields: Row Field</h3>
 This is an add-on to Advanced Custom fields for showing multiple ACF fields in a single row. You can show upto four fields in a row. It is very helpful for managing form layout as you desire.
 
-**Note:** Requires ACF >= 4
+Note: Requires ACF >= 4
 
 === Usage ===
 1. Add 'Row' field in your field setting. Choose 'Row Open' option in 'Type' to start row
