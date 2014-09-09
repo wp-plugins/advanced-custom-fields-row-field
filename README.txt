@@ -17,7 +17,7 @@ This is an add-on to Advanced Custom fields for showing multiple ACF fields in a
 
 Note: Requires ACF >= 4
 
-=== Usage ===
+= Usage =
 1. Add 'Row' field in your field setting. Choose 'Row Open' option in 'Type' to start row
 1. Choose number of columns
 1. Add your fields
