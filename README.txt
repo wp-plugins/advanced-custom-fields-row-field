@@ -42,7 +42,7 @@ __Note__: Requires ACF >= 4
 
 == Frequently Asked Questions ==
 
-= There is something cool you could add... =
+= There is something cool you could add.... =
 
 Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/advanced-custom-fields-row-field) and let us know.
 
