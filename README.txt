@@ -3,8 +3,8 @@ Contributors: rabmalin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramrojob1%40gmail%2ecom&lc=US&item_name=Nilambar%20Sharma&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: acf, advanced-custom-fields, addon, add-on, row, form, display, admin
 Requires at least: 3.5.1
-Tested up to: 3.9.2
-Stable tag: 1.0.0
+Tested up to: 4.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,8 @@ Add-on to Advanced Custom fields for showing multiple ACF fields in a single row
 This is an add-on to Advanced Custom fields for showing multiple ACF fields in a single row. You can show upto four fields in a row. It is very helpful for managing form display layout as you desire.
 
 __Note__: Requires ACF >= 4
+
+__Now Supports ACF 5__
 
 = Usage =
 1. Add 'Row' field in your field setting. Choose 'Row Open' option in 'Type' to start row
@@ -53,6 +55,9 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/adv
 1. Example Metabox form
 
 == Changelog ==
+
+= 1.0.1 =
+* Compatibility with ACF 5
 
 = 1.0.0 =
 * Initial release

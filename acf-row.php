@@ -3,7 +3,7 @@
 Plugin Name: Advanced Custom Fields: Row Field
 Plugin URI: http://www.nilambar.net
 Description: Add-on to Advanced Custom fields for showing multiple ACF fields in a single row.
-Version: 1.0.0
+Version: 1.0.1
 Author: Nilambar Sharma
 Author URI: http://www.nilambar.net
 License: GPL-2.0+
@@ -32,4 +32,10 @@ if ( ! defined( 'WPINC' ) ) {
     }
     add_action( 'plugins_loaded', 'load_textdomain_acf_row' );
 
+    function include_field_types_row( $version ) {
+
+      include_once('acf-row-v5.php');
+
+    }
+    add_action('acf/include_field_types', 'include_field_types_row');
   endif;

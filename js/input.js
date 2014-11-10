@@ -46,6 +46,7 @@
 		acf.add_action('ready append', function( $el ){
 
 			// search $el for fields of type 'row'
+				console.log($el);
 			acf.get_fields({ type : 'row'}, $el).each(function(){
 
 				initialize_field( $(this) );

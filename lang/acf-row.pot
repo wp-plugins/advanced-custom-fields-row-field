@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: acf-row\n"
-"POT-Creation-Date: 2014-09-03 21:02+0545\n"
-"PO-Revision-Date: 2014-09-03 21:03+0545\n"
+"POT-Creation-Date: 2014-11-10 21:51+0545\n"
+"PO-Revision-Date: 2014-11-10 21:52+0545\n"
 "Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -12,40 +12,56 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: ../../acf-row\n"
+"X-Poedit-SearchPath-0: ../../advanced-custom-fields-row-field\n"
 
-#: ../../acf-row/acf-row-v4.php:22
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:22
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:32
 msgid "Row"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:23
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:23
 msgid "Layout"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:77
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:77
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:96
 msgid "Type"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:88
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:88
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:102
 msgid "Row Open"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:89
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:89
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:103
 msgid "Row Close"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:98
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:98
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:107
 msgid "Column"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:109
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:109
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:113
 msgid "2"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:110
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:110
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:114
 msgid "3"
 msgstr ""
 
-#: ../../acf-row/acf-row-v4.php:111
+#: ../../advanced-custom-fields-row-field/acf-row-v4.php:111
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:115
 msgid "4"
+msgstr ""
+
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:97
+msgid "Choose Type"
+msgstr ""
+
+#: ../../advanced-custom-fields-row-field/acf-row-v5.php:108
+msgid "Choose Column"
 msgstr ""

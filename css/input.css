@@ -10,9 +10,12 @@
 .field_type-row{
 	display: none;
 }
+
 .row-col-2, .row-col-3, .row-col-4{
 	clear: both;
 }
+
+/* ACF 4 STARTS */
 .row-col-2 .field,
 .row-col-3 .field,
 .row-col-4 .field{
@@ -34,3 +37,28 @@
 .row-col-4 .field{
 	width: 23.8%;
 }
+/* ACF 4 ENDS */
+
+/* ACF 5 STARTS */
+.row-col-2 .acf-field,
+.row-col-3 .acf-field,
+.row-col-4 .acf-field{
+	float: left;
+	margin: 0px 5px;
+	padding-bottom: 10px;
+}
+.no_box .row-col-2 .acf-field,
+.no_box .row-col-3 .acf-field,
+.no_box .row-col-4 .acf-field{
+	margin: 0 5px 0 0;
+}
+.row-col-2 .acf-field{
+	width: 48%;
+}
+.row-col-3 .acf-field{
+	width: 31%;
+}
+.row-col-4 .acf-field{
+	width: 23.5%;
+}
+/* ACF 5 ENDS */

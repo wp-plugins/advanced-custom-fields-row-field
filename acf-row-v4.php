@@ -85,8 +85,8 @@ class acf_field_row extends acf_field
 					'value'		=>	$field['row_type'],
 					'layout'	=>	'horizontal',
 					'choices'	=>	array(
-						'row_open' => __('Row Open'),
-						'row_close' => __('Row Close'),
+						'row_open' => __('Row Open','acf-row'),
+						'row_close' => __('Row Close','acf-row'),
 					)
 				));
 
