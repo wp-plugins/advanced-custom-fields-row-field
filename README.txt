@@ -13,11 +13,13 @@ Add-on to Advanced Custom fields for showing multiple ACF fields in a single row
 == Description ==
 
 <h3>Advanced Custom Fields: Row Field</h3>
+
+__Notice__: This plugin is not maintained any more.    
+
 This is an add-on to Advanced Custom fields for showing multiple ACF fields in a single row. You can show upto four fields in a row. It is very helpful for managing form display layout as you desire.
 
-__Note__: Requires ACF >= 4
+__Note__: Works upto ACF 4.3    
 
-__Now Supports ACF 5__
 
 = Usage =
 1. Add 'Row' field in your field setting. Choose 'Row Open' option in 'Type' to start row
@@ -57,7 +59,7 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/adv
 == Changelog ==
 
 = 1.0.1 =
-* Compatibility with ACF 5
+* Bug fixes
 
 = 1.0.0 =
 * Initial release
